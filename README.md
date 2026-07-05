@@ -3,6 +3,7 @@
 a simple encryption tool i built with a gui, made using python and tkinter.
 
 it uses the caesar cipher (a classic shift-based encryption method) to encrypt and decrypt text and files. it also has a "shred" feature that securely deletes files so they can't be recovered. 
+Image
 
 <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/10b8d566-22b9-4cf6-b042-f0c2178c3a32" />
 
