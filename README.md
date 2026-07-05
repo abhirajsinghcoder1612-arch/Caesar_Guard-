@@ -42,4 +42,7 @@ make sure caesarguard_logo.png and caesarguard_logo.ico are in the same folder.
 
 ## notes
 
-this is a personal learning project, not meant for real-world sensitive data. if you want actual secure encryption, look into libraries like cryptography (aes encryption) instead of caesar cipher.
+this is a personal learning project, not meant for real-world sensitive data. if you want actual secure encryption, look into libraries like cryptography (aes encryption) instead of caesar cipher. 
+
+Copyright &copy; 2026 Abhiraj singh. All rights reserved.
+
